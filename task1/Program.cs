@@ -1,0 +1,11 @@
+﻿using task1;
+Student student = new Student();
+student.Greet();
+student.Greet();
+student.SetAge(21);
+student.ShowAge();
+student.Study();
+Teacher teacher = new Teacher();
+teacher.Greet();
+teacher.SetAge(24);
+teacher.Explain();
